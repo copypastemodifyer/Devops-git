@@ -1,0 +1,9 @@
+git add
+git commit -m "new commit"
+git status
+git log 
+git remote
+git init
+git orgin
+git remote add orgin https://
+git push -u orgin master
